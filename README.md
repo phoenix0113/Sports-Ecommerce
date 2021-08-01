@@ -6,7 +6,6 @@
 Hi Friends,
 
 During this lock-down period; I spent some time writing one full stack project using ASP.NET Core and Angular 9 with other best practices as explained below. I hope you like it.
-Demo Link:- https://sports-center.azurewebsites.net/
 Git Link:- https://github.com/rahulsahay19/eCommerce-App
 
 ## Introduction
@@ -142,8 +141,6 @@ You can also follow docs here https://stripe.com/docs/testing
 ![13th](https://user-images.githubusercontent.com/3886381/80680373-3f708b80-8adc-11ea-9fa6-f9cf557c96a1.png)
 
 ## Glimpse of the working solution
-
-Demo Link:- https://sports-center.azurewebsites.net/
 
 ![1st](https://user-images.githubusercontent.com/3886381/80680036-b35e6400-8adb-11ea-8dc4-94ca34a1c222.png)
 
